@@ -1,1 +1,0 @@
-{"version":3,"file":"useMessage.DLinPXOW.js","sources":["../../../../src/hooks/useMessage.js"],"sourcesContent":["export const useToast = (msg, icon = 'none') => {\n  uni.showToast({title: msg, icon})\n}\n"],"names":["useToast","msg","icon","uni.showToast","title"],"mappings":"yCAAY,MAACA,EAAW,CAACC,EAAKC,EAAO,UACnCC,EAAc,CAACC,MAAOH,EAAKC"}
